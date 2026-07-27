@@ -1,1 +1,1 @@
-console.log("hello world")
+// import * as THREE from "./three.module.min"
